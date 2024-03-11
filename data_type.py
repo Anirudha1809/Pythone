@@ -1,4 +1,4 @@
-a=10
+'''a=10
 b=20
 c=6+2j
 s='hi i am ani and doing python'
@@ -17,4 +17,16 @@ bool=True
 print(type(b))
 print(b)
 f=5.5
-print(f)
+print(f)'''
+
+
+import string
+ 
+ 
+def remove(string):
+    return string.translate(None, ' \n\t\r')
+ 
+ 
+# Driver Program
+string = ' g e e k '
+print(remove(string))
