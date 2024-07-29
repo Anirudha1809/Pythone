@@ -1,0 +1,33 @@
+2024-07-28 20:45:24,703-INFO-[4, 5, 6, 7, 8, 3, 1]
+2024-07-28 20:46:10,657-INFO-[4, 5, 6, 7, 8, 3, 1]
+2024-07-28 20:47:19,420-INFO-inside in try block
+2024-07-28 20:47:19,420-INFO-inside in for loop i=1
+2024-07-28 20:47:19,420-INFO-inside in for loop i=2
+2024-07-28 20:47:19,420-INFO-checking the value of i
+2024-07-28 20:47:19,420-INFO-append the value of i=2 in l1 
+2024-07-28 20:47:19,420-INFO-inside in for loop i=6
+2024-07-28 20:47:19,421-INFO-checking the value of i
+2024-07-28 20:47:19,421-INFO-append the value of i=6 in l1 
+2024-07-28 20:47:19,421-INFO-inside in for loop i=7
+2024-07-28 20:47:19,421-INFO-inside in for loop i=8
+2024-07-28 20:47:19,421-INFO-checking the value of i
+2024-07-28 20:47:19,421-INFO-append the value of i=8 in l1 
+2024-07-28 20:47:19,421-INFO-inside in for loop i=9
+2024-07-28 20:47:19,421-INFO-inside in for loop i=0
+2024-07-28 20:47:19,421-INFO-checking the value of i
+2024-07-28 20:47:19,421-INFO-append the value of i=0 in l1 
+2024-07-28 20:48:14,014-INFO-[4, 5, 6, 7, 8, 3, 1]
+2024-07-28 20:48:16,627-INFO-inside in try block
+2024-07-28 20:48:16,627-INFO-inside in for loop i=4
+2024-07-28 20:48:16,627-INFO-checking the value of i
+2024-07-28 20:48:16,627-INFO-append the value of i=4 in l1 
+2024-07-28 20:48:16,627-INFO-inside in for loop i=5
+2024-07-28 20:48:16,627-INFO-inside in for loop i=6
+2024-07-28 20:48:16,627-INFO-checking the value of i
+2024-07-28 20:48:16,627-INFO-append the value of i=6 in l1 
+2024-07-28 20:48:16,627-INFO-inside in for loop i=7
+2024-07-28 20:48:16,627-INFO-inside in for loop i=8
+2024-07-28 20:48:16,627-INFO-checking the value of i
+2024-07-28 20:48:16,627-INFO-append the value of i=8 in l1 
+2024-07-28 20:48:16,627-INFO-inside in for loop i=3
+2024-07-28 20:48:16,627-INFO-inside in for loop i=1

@@ -1,0 +1,26 @@
+2024-07-16 01:58:44,505-this is the startt of my prog
+2024-07-16 01:58:44,505-asking user to enter a age
+2024-07-16 01:58:47,204-user has entered the age
+2024-07-16 02:00:23,158-this is the startt of my prog
+2024-07-16 02:00:23,158-asking user to enter a age
+2024-07-16 02:00:24,941-user has entered the age
+2024-07-28 19:38:48,008-INFO-this is the startt of my prog
+2024-07-28 19:38:48,009-INFO-asking user to enter a age
+2024-07-28 19:38:50,889-INFO-user has entered the age
+2024-07-28 19:38:50,889-INFO-i am checking under 18 condition
+2024-07-28 19:38:50,889-ERROR-You are a minor
+2024-07-28 20:29:19,387-INFO-this is the startt of my prog
+2024-07-28 20:29:19,392-INFO-asking user to enter a age
+2024-07-28 20:29:22,135-INFO-i am checking under 18 condition
+2024-07-28 20:29:22,135-ERROR-You are a minor
+2024-07-28 20:29:40,957-INFO-this is the startt of my prog
+2024-07-28 20:29:40,957-INFO-asking user to enter a age
+2024-07-28 20:29:44,876-INFO-i am checking under 18 condition
+2024-07-28 20:29:44,876-ERROR-You are a minor
+2024-07-28 20:29:59,166-INFO-this is the startt of my prog
+2024-07-28 20:29:59,167-INFO-asking user to enter a age
+2024-07-28 20:30:00,310-INFO-user has entered the age=12
+2024-07-28 20:30:00,310-INFO-i am checking under 18 condition
+2024-07-28 20:30:00,310-ERROR-You are a minor
+2024-07-28 20:44:24,748-INFO-[4, 5, 6, 7, 8, 3, 1]
+2024-07-28 20:44:41,555-INFO-[4, 5, 6, 7, 8, 3, 1]
